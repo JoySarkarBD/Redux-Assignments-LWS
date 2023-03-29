@@ -14,7 +14,9 @@ const fetchVideo = createAsyncThunk("video/fetchVideo", async (_, thunkAPI) => {
   const res = await fetch("http://localhost:9000/videos");
   const video = await res?.json();
 
-  // thunkAPI.dispatch(fetchMatchVideo(video.tags));
+  thunkAPI.dispatch(fetchMatchVideo(video.tags));
+
+  // return console.log(thunkAPI);
 
   return video;
 });
