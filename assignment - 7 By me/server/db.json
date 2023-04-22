@@ -1,0 +1,67 @@
+{
+  "jobs": [
+    {
+      "title": "DevOps Engineer",
+      "type": "Internship",
+      "salary": "55002",
+      "deadline": "2024-12-31",
+      "id": 1
+    },
+    {
+      "title": "QA Engineer",
+      "type": "Full Time",
+      "salary": "30000",
+      "deadline": "2023-12-31",
+      "id": 2
+    },
+    {
+      "title": "Product Manager",
+      "type": "Remote",
+      "salary": "58000",
+      "deadline": "2023-12-31",
+      "id": 3
+    },
+    {
+      "title": "Social Media Manager",
+      "type": "Internship",
+      "salary": "12000",
+      "deadline": "2023-11-30",
+      "id": 4
+    },
+    {
+      "title": "Android App Developer",
+      "type": "Remote",
+      "salary": "35000",
+      "deadline": "2023-12-31",
+      "id": 5
+    },
+    {
+      "title": "Full Stack Developer",
+      "type": "Internship",
+      "salary": "40000",
+      "deadline": "2023-12-31",
+      "id": 6
+    },
+    {
+      "title": "MERN Stack Developer",
+      "type": "Remote",
+      "salary": "28000",
+      "deadline": "2023-04-30",
+      "id": 7
+    },
+    {
+      "title": "Frontend Developer",
+      "type": "Remote",
+      "salary": "15000",
+      "deadline": "2023-04-26",
+      "id": 8
+    },
+    {
+      "title": "IOS App Developer",
+      "type": "Full Time",
+      "salary": "85000",
+      "deadline": "2023-05-05",
+      "id": 9
+    }
+  ]
+}
